@@ -1,5 +1,7 @@
 # Yuzult client <a href="https://github.com/Fcornaire/yuzult-client/releases/latest"><img alt="GitHub release" src="https://img.shields.io/github/v/release/Fcornaire/yuzult-client"></a> <a href="https://github.com/Fcornaire/yuzult-client/releases"><img src="https://img.shields.io/github/downloads/Fcornaire/yuzult-client/total"></a> <a href="https://twitter.com/DShad66"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/DShad66?style=social"></a>
 
+### ❗ (The client source code need some check + clean, after that i will push it on this repository) ❗
+
 Desktop App making yuzu + parsec Smash Ultimate users to link themselves easier
 
 Yuzult is a service which let you match with people for Smash Ultimate game via Parsec throught a server as a system of lobbies
@@ -10,7 +12,7 @@ It composed of 3 main apps :
 
 - [Yuzult](https://github.com/Fcornaire/yuzu) : the yuzu version managing communication with Parsec
 - Yuzult-matchmaking : the backend server
-- Yuzult-client: the desktop app that use the 2 above for the whole system working
+- Yuzult-client: the desktop app that use the 2 above for the whole system working 
 
 It uses the Parsec capabilities throught the [sdk](https://github.com/parsec-cloud/parsec-sdk) to enable low latency yuzu session ( As a reminder, it's Parsec, not a rollback netcode implementation of Smash Ultimate in yuzu)
 
