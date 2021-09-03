@@ -14,7 +14,12 @@ You forgot to launch the Parsec desktop app. Parsec will try to launch it first 
 
   Controller 2 is enabled
 
-  GameCube controller 2 is selected
+  ***Parsec Controller 1*** 
+  
+  is selected as shown below 
+
+![image](https://user-images.githubusercontent.com/14372342/132071516-3de64c8d-bc79-4f6a-98b3-dcd35015f52c.png)
+
 
   And retry to input something
 
