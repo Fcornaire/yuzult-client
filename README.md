@@ -67,3 +67,7 @@ The main idea of Yuzult is to let people connect more easily and also to attract
 Yuzult-matchmaking is an api server that manage all the lobbies and communication between Yuzult and the client (the backend is not destinated to the public ). Communication happen with WebSocket ([SocketIO](https://github.com/socketio/socket.io)) instead of regular Rest Api to take advantage of realtime communication.
 
 The client make everything work together by setting up / send the right data to make all the yuzu + parsec session work. It also responsible for launching the enhanced yuzu, so you don't have to download it
+
+# External
+
+Yuzult client use [Material Design Sound resources](https://material.io/design/sound/sound-resources.html) for some sound (client joining/leaving.sending a message in the lobby)
